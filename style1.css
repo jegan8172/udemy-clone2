@@ -226,7 +226,7 @@ display: none;
 }
 @media screen and (max-width:600px) {
     .categories{
-        display: none;
+        display:none;
     }
     .course-card{
         flex-grow: 1;
